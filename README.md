@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-[Acesse o projeto finalizado](https://site-papelaria-pi.vercel.app/)
+🚀 [Acesse o projeto finalizado](https://site-papelaria-pi.vercel.app/)
 
 ## Autor
 
